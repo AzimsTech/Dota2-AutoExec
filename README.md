@@ -2,7 +2,7 @@
   <img src="cover.jpg">
 </div>
 
-> Here's a simple [autoexec.cfg](https://raw.githubusercontent.com/AzimsTech/Dota2-AutoExec/master/autoexec.cfg) that I personally use. You're welcome to make use of it as well :)
+> Here's a simple [autoexec.cfg](https://raw.githubusercontent.com/AzimsTech/Dota2-AutoExec/main/cfg/autoexec.cfg) that I personally use. You're welcome to make use of it as well :)
 
 The CFG is straightforward, contained within a single file, and is suitable for my needs. Additionally, you have the freedom to modify the configuration according to your preferences. 👍
 

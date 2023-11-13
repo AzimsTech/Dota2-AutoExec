@@ -19,6 +19,8 @@ To execute the configuration, open your in-game console and input the command `e
 ## My Launch Options
 
 1. `-novid` Skip intro screen.
-2. `-noforcemaccel -useforcedmparms` Disable in-game mouse acceleration.
+2. `-noforcemaccel` `-useforcedmparms` Disable in-game mouse acceleration.
 
-`-novid -noforcemaccel -useforcedmparms`
+    ```
+    -novid -noforcemaccel -useforcedmparms
+    ```
